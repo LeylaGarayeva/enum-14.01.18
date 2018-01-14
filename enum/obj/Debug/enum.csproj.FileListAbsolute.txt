@@ -1,0 +1,7 @@
+C:\Users\P502\Desktop\task\enum\enum\bin\Debug\@enum.exe.config
+C:\Users\P502\Desktop\task\enum\enum\bin\Debug\@enum.exe
+C:\Users\P502\Desktop\task\enum\enum\bin\Debug\@enum.pdb
+C:\Users\P502\Desktop\task\enum\enum\obj\Debug\enum.csprojResolveAssemblyReference.cache
+C:\Users\P502\Desktop\task\enum\enum\obj\Debug\enum.csproj.CoreCompileInputs.cache
+C:\Users\P502\Desktop\task\enum\enum\obj\Debug\@enum.exe
+C:\Users\P502\Desktop\task\enum\enum\obj\Debug\@enum.pdb
